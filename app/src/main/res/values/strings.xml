@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz Buzz</string>
+    <string name="no_of_questions">5</string>
+    <string name="fetchQuizUrl">https://6bo7itbvzd.execute-api.ap-south-1.amazonaws.com/prod?name=getQuiz</string>
+</resources>
