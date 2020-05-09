@@ -11,7 +11,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class score extends AppCompatActivity {
-TextView sc,ca,qa;
+TextView sc,ca,qa,baa;
 Button viewAnswers,newGame,previousScores,home;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
